@@ -1,0 +1,5 @@
+ami_id          = "ami-0beaa649c482330f7"
+ins_type        = "t2.micro"
+web_subnet_id   = "subnet-0ceda3f8a1e7f54b8"
+app_subnet_id   = "subnet-0ad51346b1d9ed407"
+db_subnet_id    = "subnet-0cf378227ded495ba"
